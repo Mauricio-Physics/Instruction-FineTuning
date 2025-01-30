@@ -1,0 +1,48 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "first_page": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "document": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_pages": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "machine_code": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chunks": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "relevance": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "global_relevance": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "coverage": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
